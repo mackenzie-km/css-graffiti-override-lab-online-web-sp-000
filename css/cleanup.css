@@ -4,6 +4,10 @@
   display: none;
 }
 
+#wall #tag-2 {
+  display: none;
+}
+
 .parent {
   display: none;
 }
@@ -12,4 +16,4 @@
     display: none;
 }
 
- 1 & two need to go
+ two need to go
