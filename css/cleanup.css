@@ -4,8 +4,8 @@
   display: none;
 }
 
-#wall #tag-2 {
-
+.parent {
+  display: none;
 }
 
 div#wall #tag-3.slick
